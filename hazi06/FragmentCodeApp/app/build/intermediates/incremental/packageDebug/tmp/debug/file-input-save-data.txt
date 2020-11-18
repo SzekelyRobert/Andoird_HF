@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Wed Nov 18 13:11:00 EET 2020
+0.baseType=DIRECTORY
+0.base=C\:\\Egyetem\\3 ev\\Android\\Andoird_HF\\hazi06\\FragmentCodeApp\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1

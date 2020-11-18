@@ -1,0 +1,4 @@
+#Wed Nov 18 13:11:00 EET 2020
+base.0=C\:\\Egyetem\\3 ev\\Android\\Andoird_HF\\hazi06\\FragmentCodeApp\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
